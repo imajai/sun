@@ -1,1 +1,2 @@
 Hi this is first repogitray for git hub
+in the git i just typed this one
